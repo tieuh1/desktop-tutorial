@@ -1,4 +1,4 @@
-# The Factors underlying the Rapid Increase in Marijuana Use among Young Adults
+# Unveiling the Impact: Analyzing Marijuana Use on Mental Health and Social Bonds in Young Adults
 
 Author: Ha Tieu
 
