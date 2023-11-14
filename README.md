@@ -35,7 +35,9 @@ e. Feeling down on yourself (DSTNGD12)
 
 
 Part II. Examine how the frequency of using marijuana affect mental health and social connection in the young adults
+
 2.1 Substance Disorder
+
 2.2 Social Connection
 
 ## Report
