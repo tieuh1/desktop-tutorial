@@ -9,7 +9,9 @@ Using 2021 data from Substance Abuse and Mental Health Services Administration (
 
 ## Data & Software:
 For the data, since the file is too big for GitHub to upload, please download the data in Delimited format (.txt) by this link: https://www.datafiles.samhsa.gov/dataset/national-survey-drug-use-and-health-2021-nsduh-2021-ds0001 
+
 This dataset will need 2021 SAMSHA Codebook (upload above or can find in the dataset link) to understand the variable. In this research, the selected sections for collecting data include marijuana use, past-year frequency of marijuana use, adult mental health, substance disorders, and demographics.
+
 For the software, I used Python 3 to collect and clean the data.
 
 ## Code
