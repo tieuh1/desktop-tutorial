@@ -1,4 +1,4 @@
-# Unveiling the Impact: Analyzing Marijuana Use on Mental Health and Social Bonds in Young Adults
+## Unveiling the Impact: Analyzing Marijuana Use on Mental Health and Social Bonds in Young Adults
 
 Author: Ha Tieu
 
