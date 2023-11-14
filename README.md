@@ -41,4 +41,4 @@ Part II. Examine how the frequency of using marijuana affect mental health and s
 2.2 Social Connection
 
 ## Report
-DA 401 Final Report.pdf is the research paper for this study
+DA 401 Final Report.pdf is the research paper for this study.
